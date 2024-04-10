@@ -1,4 +1,4 @@
-
+//Autora: Núria Marzo
 //datos introducidos por el usuario
 let producto1 = 25;
 let producto2 = 5;
