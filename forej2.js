@@ -1,3 +1,4 @@
+//Autora: Núria Marzo
 //Números que introduce el usuario
 
 let num1 = 3;
